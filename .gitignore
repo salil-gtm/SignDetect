@@ -1,0 +1,5 @@
+venv
+*.pyc
+data/
+temp.wav
+final_clip.mp4
