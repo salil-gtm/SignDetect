@@ -21,10 +21,10 @@ What things you need to install the software and how to install them
 ### Running the Platform
 
  
--1. Run python main.py
--2. Record your voice for 5 seconds.
--3. wait for the processing to be done.
--4. The Video will be played in default video player (It should support .mp4 videos.)
+1. Run python main.py
+2. Record your voice for 5 seconds.
+3. wait for the processing to be done.
+4. The Video will be played in default video player (It should support .mp4 videos.)
 
 
 ## Built With
