@@ -4,10 +4,11 @@ import requests
 import moviepy.editor as mp
 import shutil
 import os
-import imageio
+import time	
+from flask import Flask
+app = Flask(__name__)
 
-imageio.plugins.ffmpeg.download()
-
+@app.route("/salil")
 def main():
     file_name = "temp.wav"
     shutil.rmtree("data/")
@@ -46,7 +47,11 @@ def main():
     final_clip = mp.concatenate_videoclips(clips, method="compose")
 
     final_clip.write_videofile("final_clip.mp4")
+    time.sleep(1)
+    os.system("xdg-open final_clip.mp4")
+    return "final_clip.mp4"
 
-main()
+#main()
 
-os.system("xdg-open final_clip.mp4")
+if __name__ == "__main__":
+	app.run(host='127.0.0.1',port=6789)
