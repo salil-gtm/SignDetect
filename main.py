@@ -4,7 +4,9 @@ import requests
 import moviepy.editor as mp
 import shutil
 import os
+import imageio
 
+imageio.plugins.ffmpeg.download()
 
 def main():
     file_name = "temp.wav"
