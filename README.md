@@ -3,48 +3,20 @@
 This application is developed to help dumb people interact with others with ease.
 It detects voice and converts the input speech into a sign language based video.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Installation
 
 1. From the root of the repository run `pip install -r requirements.txt`
-2. then run the code by  `python main.py`
+2. Deploy flask endpoint by running  `python main.py`. This will host the flask endpoints at localhost:6789
+3. Deploy node server by running `node index.js` .
+4. Access the UI from the browser at localhost:8000
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 1. Python (>=Python 3.0)
+2. Node
+3. Flask
 
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
