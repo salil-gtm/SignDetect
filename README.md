@@ -1,6 +1,6 @@
 # SignDetect
 
-This application is developed to help dumb people interact with others with ease.
+This application is developed to help speechless people interact with others with ease.
 It detects voice and converts the input speech into a sign language based video.
 
 ##  Installing
