@@ -35,9 +35,9 @@ What things you need to install the software and how to install them
 
 ## Authors
  
--* **Shubham Verma** - *Initial work* - [shubhamverma27](https://github.com/shubhamverma27)
--* **Salil Gautam** - *Initial work* - [salil-gtm](https://github.com/salil-gtm)
--* **Nishant Gore** - *Initial work* - [NishantGore](https://github.com/nishantgore)
+* **Shubham Verma** - *Initial work* - [shubhamverma27](https://github.com/shubhamverma27)
+* **Salil Gautam** - *Initial work* - [salil-gtm](https://github.com/salil-gtm)
+* **Nishant Gore** - *Initial work* - [NishantGore](https://github.com/nishantgore)
 
 
 ## License
@@ -46,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
  ## Acknowledgments
  
--* https://handspeak.com/word/ for public repo of sign videos.
+* https://handspeak.com/word/ for public repo of sign videos.
