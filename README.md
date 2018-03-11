@@ -1,6 +1,6 @@
 # SignDetect
 
-This application is developed to help dumb people interact with others with ease.
+This application is developed to help speechless people interact with others with ease.
 It detects voice and converts the input speech into a sign language based video.
 
 ## Installation
@@ -8,7 +8,7 @@ It detects voice and converts the input speech into a sign language based video.
 1. From the root of the repository run `pip install -r requirements.txt`
 2. Deploy flask endpoint by running  `python main.py`. This will host the flask endpoints at localhost:6789
 3. Deploy node server by running `node index.js` .
-4. Access the UI from the browser at localhost:8000
+4. Access the UI from the browser at http://localhost:8000
 
 ### Prerequisites
 
