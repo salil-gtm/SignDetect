@@ -4,12 +4,12 @@ body{
 	width: 100%;
 }
 #main-div{
-	width: 50%;
+	width: 80%;
 	height: 30vh;
 	padding: 0;
 	text-align: center;
-	line-height: 30vh;
-	font-size: 8vw;
+	line-height: 27vh;
+	font-size: 6vw;
 	/*border: 1px solid red;*/
 	margin: 25vh auto;
 	letter-spacing: -0.3vw;

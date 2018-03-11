@@ -1,0 +1,47 @@
+ * Running on http://127.0.0.1:6789/ (Press CTRL+C to quit)
+ALSA lib pcm_dsnoop.c:606:(snd_pcm_dsnoop_open) unable to open slave
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm_dmix.c:1029:(snd_pcm_dmix_open) unable to open slave
+recording...
+finished recording
+{u'Duration': 10200000, u'RecognitionStatus': u'Success', u'DisplayText': u'Hello how are you.', u'Offset': 12700000}
+[MoviePy] >>>> Building video data/2.mp4
+[MoviePy] Writing video data/2.mp4
+  0%|          | 0/71 [00:00<?, ?it/s] 11%|#1        | 8/71 [00:00<00:00, 78.63it/s] 24%|##3       | 17/71 [00:00<00:00, 79.19it/s] 37%|###6      | 26/71 [00:00<00:00, 79.59it/s] 48%|####7     | 34/71 [00:00<00:00, 79.07it/s] 58%|#####7    | 41/71 [00:00<00:00, 74.53it/s] 68%|######7   | 48/71 [00:00<00:00, 69.38it/s] 79%|#######8  | 56/71 [00:00<00:00, 70.11it/s] 90%|######### | 64/71 [00:00<00:00, 71.62it/s]100%|##########| 71/71 [00:00<00:00, 74.15it/s]
+[MoviePy] Done.
+[MoviePy] >>>> Video ready: data/2.mp4 
+
+[MoviePy] >>>> Building video final_clip.mp4
+[MoviePy] Writing video final_clip.mp4
+  0%|          | 0/226 [00:00<?, ?it/s]  5%|4         | 11/226 [00:00<00:01, 108.77it/s] 11%|#1        | 25/226 [00:00<00:01, 115.30it/s] 15%|#5        | 35/226 [00:00<00:01, 108.00it/s] 19%|#9        | 44/226 [00:00<00:01, 96.89it/s]  23%|##3       | 52/226 [00:00<00:01, 90.47it/s] 27%|##6       | 60/226 [00:00<00:01, 83.79it/s] 30%|###       | 68/226 [00:00<00:02, 75.17it/s] 34%|###3      | 76/226 [00:00<00:02, 73.47it/s] 37%|###7      | 84/226 [00:00<00:01, 75.00it/s] 41%|####      | 92/226 [00:01<00:01, 74.45it/s] 44%|####4     | 100/226 [00:01<00:01, 75.81it/s] 50%|#####     | 114/226 [00:01<00:01, 86.59it/s] 57%|#####7    | 129/226 [00:01<00:00, 98.53it/s] 64%|######4   | 145/226 [00:01<00:00, 110.97it/s] 71%|#######   | 160/226 [00:01<00:00, 118.71it/s] 77%|#######6  | 173/226 [00:01<00:00, 112.69it/s] 82%|########1 | 185/226 [00:01<00:00, 99.90it/s]  87%|########6 | 196/226 [00:02<00:00, 92.21it/s] 91%|#########1| 206/226 [00:02<00:00, 86.07it/s] 96%|#########5| 216/226 [00:02<00:00, 84.86it/s]100%|#########9| 225/226 [00:02<00:00, 84.58it/s]100%|##########| 226/226 [00:02<00:00, 93.60it/s]
+[MoviePy] Done.
+[MoviePy] >>>> Video ready: final_clip.mp4 
+
+127.0.0.1 - - [11/Mar/2018 18:36:37] "GET /salil HTTP/1.1" 200 -
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'continue_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'load_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'save_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'goto_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'remove_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'add_button_clicked_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'tree_view_button_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'tree_view_key_press_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'tree_view_row_activated_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'tree_view_popup_menu_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'popup_goto_action_cb'.  Did you compile with -rdynamic?
+
+(xplayer:12060): Gtk-WARNING **: Could not find signal handler 'popup_remove_action_cb'.  Did you compile with -rdynamic?

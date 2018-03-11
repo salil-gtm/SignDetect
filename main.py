@@ -6,7 +6,10 @@ import shutil
 import os
 import time	
 from flask import Flask
+#from flask_cors import CORS
+
 app = Flask(__name__)
+#CORS(app)
 
 @app.route("/salil")
 def main():
@@ -49,7 +52,7 @@ def main():
     final_clip.write_videofile("final_clip.mp4")
     time.sleep(1)
     os.system("xdg-open final_clip.mp4")
-    return "final_clip.mp4"
+    return spoken_text
 
 #main()
 
