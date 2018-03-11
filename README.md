@@ -34,6 +34,10 @@ What things you need to install the software and how to install them
 * [Flask]
 
 
+## Future Works [WiP]
+* Sign language recognition via image processing and deep learning and converting it to text and speech.
+* Full Fledged platform for 2 way interaction to be developed.
+
 ## Authors
  
 * **Shubham Verma** - *Initial work* - [shubhamverma27](https://github.com/shubhamverma27)
@@ -48,3 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
  ## Acknowledgments
  
 * https://handspeak.com/word/ for public repo of sign videos.
+* Made with &#9829; during Mumbai Hackathon 2018 in 24 hrs
