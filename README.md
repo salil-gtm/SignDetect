@@ -39,10 +39,10 @@ What things you need to install the software and how to install them
 * Full Fledged platform for 2 way interaction to be developed.
 
 ## Authors
- 
-* **Shubham Verma** - *Initial work* - [shubhamverma27](https://github.com/shubhamverma27)
-* **Salil Gautam** - *Initial work* - [salil-gtm](https://github.com/salil-gtm)
-* **Nishant Gore** - *Initial work* - [NishantGore](https://github.com/nishantgore)
+
+* **Salil Gautam** - [salil-gtm](https://github.com/salil-gtm)
+* **Shubham Verma** - [shubhamverma27](https://github.com/shubhamverma27)
+* **Nishant Gore** - [NishantGore](https://github.com/nishantgore)
 
 
 ## License
@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
  ## Acknowledgments
  
 * https://handspeak.com/word/ for public repo of sign videos.
-* Made with &#9829; during Mumbai Hackathon 2018 in 24 hrs
+* Made with &#9829; during Mumbai Hackathon 2018 in 24 hrs.
