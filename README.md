@@ -7,7 +7,7 @@ It detects voice and converts the input speech into a sign language based video.
 ## Installation
 
 1. From the root of the repository run `pip install -r requirements.txt`
-2. Deploy flask endpoint by running  `python main.py`. This will host the flask endpoints at localhost:6789
+2. Deploy the flask endpoint by running  `python main.py`. This will host the flask endpoints at localhost:6789
 3. Deploy node server by running `node index.js` .
 4. Access the UI from the browser at http://localhost:8000
 
