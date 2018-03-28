@@ -1,7 +1,7 @@
 ![Logo](https://github.com/salil-gtm/SignDetect/blob/master/29003533_10204203894813894_2122524096_n.png?raw=true)
 # SignDetect
 
-This application is developed to help speechless people interact with others with ease.
+This application is developed to help deaf people interact with others with ease.
 It detects voice and converts the input speech into a sign language based video.
 
 ## Installation
